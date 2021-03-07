@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main(){
-	std::cout << "Hello, World\m";
+
+	std::cout << "Hello, C++\m";
+
 	return 0;
 }
